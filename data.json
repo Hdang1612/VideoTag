@@ -1,0 +1,54 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "link": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "text": "thỏ trắng"
+    },
+    {
+      "id": "2",
+      "link": "https://media.istockphoto.com/id/500124416/vi/video/t%C3%A0u-container-t%E1%BA%A1i-c%E1%BA%A3ng-%E1%BB%9F-ch%C3%A2u-%C3%A1.mp4?s=mp4-640x640-is&k=20&c=gQkVP5wHqkUQArzhzt99wNww3X1XUz4nwpxmU5F4bRg=",
+      "text": "công xưởng"
+    },
+    {
+      "id": "3",
+      "link": "https://media.istockphoto.com/id/1891886474/vi/video/th%E1%BB%A9c-d%E1%BA%ADy-sau-m%E1%BB%99t-chi%E1%BA%BFc-du-thuy%E1%BB%81n-du-l%E1%BB%8Bch-tr%C3%AAn-bi%E1%BB%83n-trong-ho%C3%A0ng-h%C3%B4n.mp4?s=mp4-640x640-is&k=20&c=JDmqJ4iu5bAIkQNcE1JkMjpp58eBR6orFc_jecdksCY=",
+      "text": "sóng"
+    },
+    {
+      "id": "4",
+      "link": "https://cdn.pixabay.com/video/2020/05/15/39116-420985147_large.mp4",
+      "text": ""
+    },
+    {
+      "id": "5",
+      "link": "https://cdn.pixabay.com/video/2020/02/09/32132-390688056_large.mp4",
+      "text": "bóng bay"
+    },
+    {
+      "id": "6",
+      "link": "https://cdn.pixabay.com/video/2015/08/08/144-135737254_large.mp4",
+      "text": ""
+    },
+    {
+      "id": "7",
+      "link": "https://cdn.pixabay.com/video/2022/05/22/117782-713036137_large.mp4",
+      "text": ""
+    },
+    {
+      "id": "8",
+      "link": "https://cdn.pixabay.com/video/2021/12/24/102361-659985595_large.mp4",
+      "text": "biển"
+    },
+    {
+      "id": "9",
+      "link": "https://cdn.pixabay.com/video/2019/02/28/21723-320725678_large.mp4",
+      "text": "chim"
+    },
+    {
+      "id": "10",
+      "link": "https://www.w3schools.com/html/movie.mp4",
+      "text": "gấu"
+    }
+  ]
+}
